@@ -19,11 +19,6 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Feature/prometheus](https://github.com/samarsault/plainwhite-jekyll/pull/105) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (today)
 - [feat: Export metrics for domains provided from configuration file](https://github.com/caarlos0/domain_exporter/pull/103) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (today)
 - [Switch to new owner](https://github.com/shift/domain_exporter/pull/47) on [shift/domain_exporter](https://github.com/shift/domain_exporter) (1 day ago)
-- [Add ingress to process](https://github.com/zifter/domain-exporter-helm/pull/3) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
-- [Add test kind cluster to check everything in grafana, prometheus and alertmanager](https://github.com/zifter/domain-exporter-helm/pull/2) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (2 days ago)
-- [Add more information for chart](https://github.com/zifter/domain-exporter-helm/pull/1) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (3 days ago)
-- [Allow dot and underscore for vault path](https://github.com/zifter/helm-secrets/pull/1) on [zifter/helm-secrets](https://github.com/zifter/helm-secrets) (3 weeks ago)
-- [Allow dot, asterisk and underscore for vault path](https://github.com/jkroepke/helm-secrets/pull/133) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter
