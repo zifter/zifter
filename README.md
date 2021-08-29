@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/8) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
+- [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/7) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/6) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Add helm publish github action](https://github.com/zifter/domain-exporter-helm/pull/5) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Use new version of domain exporter](https://github.com/zifter/domain-exporter-helm/pull/4) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
-- [Add rss support](https://github.com/zifter/zifter.github.io/pull/4) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
-- [Add prometheus blog posts](https://github.com/zifter/zifter.github.io/pull/3) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter
@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/domain-exporter-helm v0.2.0](https://github.com/zifter/domain-exporter-helm/releases/tag/v0.2.0) (today)
+- [zifter/domain-exporter-helm domain-exporter-0.2.0](https://github.com/zifter/domain-exporter-helm/releases/tag/domain-exporter-0.2.0) (today)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (7 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (7 months ago)
 
