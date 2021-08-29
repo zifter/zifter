@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter (1 day ago)
+- [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter (today)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (1 month ago)
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics (5 months ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (7 months ago)
@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/6) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
+- [Add helm publish github action](https://github.com/zifter/domain-exporter-helm/pull/5) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
+- [Use new version of domain exporter](https://github.com/zifter/domain-exporter-helm/pull/4) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Add rss support](https://github.com/zifter/zifter.github.io/pull/4) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
 - [Add prometheus blog posts](https://github.com/zifter/zifter.github.io/pull/3) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
-- [Feature/prometheus](https://github.com/samarsault/plainwhite-jekyll/pull/105) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (today)
-- [feat: Export metrics for domains provided from configuration file](https://github.com/caarlos0/domain_exporter/pull/103) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (today)
-- [Switch to new owner](https://github.com/shift/domain_exporter/pull/47) on [shift/domain_exporter](https://github.com/shift/domain_exporter) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter
@@ -26,6 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
+- [zifter/domain-exporter-helm v0.2.0](https://github.com/zifter/domain-exporter-helm/releases/tag/v0.2.0) (today)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (7 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (7 months ago)
 
