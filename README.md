@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [update gh-pages](https://github.com/zifter/domain-exporter-helm/pull/11) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
+- [Add installation guide](https://github.com/zifter/domain-exporter-helm/pull/10) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Add schema for values file](https://github.com/zifter/domain-exporter-helm/pull/9) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/8) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/7) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
-- [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/6) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
-- [Add helm publish github action](https://github.com/zifter/domain-exporter-helm/pull/5) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter
