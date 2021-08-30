@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Add schema for values file](https://github.com/zifter/domain-exporter-helm/pull/9) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (today)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/8) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/7) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 - [Use another action for publishing](https://github.com/zifter/domain-exporter-helm/pull/6) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 - [Add helm publish github action](https://github.com/zifter/domain-exporter-helm/pull/5) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
-- [Use new version of domain exporter](https://github.com/zifter/domain-exporter-helm/pull/4) on [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/domain-exporter-helm](https://github.com/zifter/domain-exporter-helm) - Helm chart for domain exporter
@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/domain-exporter-helm domain-exporter-0.2.0](https://github.com/zifter/domain-exporter-helm/releases/tag/domain-exporter-0.2.0) (1 day ago)
+- [zifter/domain-exporter-helm domain-exporter-0.2.1](https://github.com/zifter/domain-exporter-helm/releases/tag/domain-exporter-0.2.1) (today)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (7 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (7 months ago)
 
