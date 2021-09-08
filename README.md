@@ -6,16 +6,16 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (today)
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (5 days ago)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (1 day ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (6 days ago)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (2 months ago)
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics (5 months ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/fix url](https://github.com/zifter/helm-charts/pull/13) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (6 days ago)
-- [Move README.md into chart location](https://github.com/zifter/helm-charts/pull/12) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (6 days ago)
+- [Feature/fix url](https://github.com/zifter/helm-charts/pull/13) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
+- [Move README.md into chart location](https://github.com/zifter/helm-charts/pull/12) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [update gh-pages](https://github.com/zifter/helm-charts/pull/11) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Add installation guide](https://github.com/zifter/helm-charts/pull/10) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Add schema for values file](https://github.com/zifter/helm-charts/pull/9) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts domain-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.2.4) (6 days ago)
-- [caarlos0/domain_exporter v1.13.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.13.0) (3 weeks ago)
+- [zifter/helm-charts domain-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.2.4) (1 week ago)
+- [caarlos0/domain_exporter v1.13.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.13.0) (4 weeks ago)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (7 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (8 months ago)
 
