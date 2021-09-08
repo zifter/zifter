@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix repo url](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Feature/fix url](https://github.com/zifter/helm-charts/pull/13) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Move README.md into chart location](https://github.com/zifter/helm-charts/pull/12) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [update gh-pages](https://github.com/zifter/helm-charts/pull/11) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Add installation guide](https://github.com/zifter/helm-charts/pull/10) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
-- [Add schema for values file](https://github.com/zifter/helm-charts/pull/9) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
