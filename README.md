@@ -6,15 +6,15 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (1 day ago)
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (6 days ago)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (2 days ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (1 week ago)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (2 months ago)
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics (5 months ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (7 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix repo url](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
+- [Fix repo url](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Feature/fix url](https://github.com/zifter/helm-charts/pull/13) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Move README.md into chart location](https://github.com/zifter/helm-charts/pull/12) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [update gh-pages](https://github.com/zifter/helm-charts/pull/11) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
