@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Kafka exporter, support sasl](https://github.com/zifter/helm-charts/pull/16) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Add kafka-exporter helm charts](https://github.com/zifter/helm-charts/pull/15) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Rework dashboard](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 days ago)
 - [Feature/fix url](https://github.com/zifter/helm-charts/pull/13) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Move README.md into chart location](https://github.com/zifter/helm-charts/pull/12) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
-- [update gh-pages](https://github.com/zifter/helm-charts/pull/11) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts kafka-exporter-0.1.0](https://github.com/zifter/helm-charts/releases/tag/kafka-exporter-0.1.0) (1 day ago)
-- [caarlos0/domain_exporter v1.13.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.13.0) (1 month ago)
+- [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (today)
+- [zifter/helm-charts kafka-exporter-0.1.1](https://github.com/zifter/helm-charts/releases/tag/kafka-exporter-0.1.1) (today)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (8 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (8 months ago)
 
