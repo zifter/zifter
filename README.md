@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: whois request for capitalized and unicode domains](https://github.com/caarlos0/domain_exporter/pull/107) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (today)
 - [Domain exporter post](https://github.com/zifter/zifter.github.io/pull/5) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
 - [Switch domain exporter to original exporter](https://github.com/zifter/helm-charts/pull/20) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Zookeeper exporter](https://github.com/zifter/helm-charts/pull/19) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Add more chart references](https://github.com/zifter/helm-charts/pull/18) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
-- [Clickhouse exporter](https://github.com/zifter/helm-charts/pull/17) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
