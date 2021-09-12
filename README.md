@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Zookeeper exporter](https://github.com/zifter/helm-charts/pull/19) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Add more chart references](https://github.com/zifter/helm-charts/pull/18) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Clickhouse exporter](https://github.com/zifter/helm-charts/pull/17) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Kafka exporter, support sasl](https://github.com/zifter/helm-charts/pull/16) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Add kafka-exporter helm charts](https://github.com/zifter/helm-charts/pull/15) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 days ago)
-- [Rework dashboard](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
