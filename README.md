@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Domain exporter post](https://github.com/zifter/zifter.github.io/pull/5) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (today)
 - [Switch domain exporter to original exporter](https://github.com/zifter/helm-charts/pull/20) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Zookeeper exporter](https://github.com/zifter/helm-charts/pull/19) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Add more chart references](https://github.com/zifter/helm-charts/pull/18) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 - [Clickhouse exporter](https://github.com/zifter/helm-charts/pull/17) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
-- [Kafka exporter, support sasl](https://github.com/zifter/helm-charts/pull/16) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
@@ -32,11 +32,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (8 months ago)
 
 ### 📄 Latest posts
+- [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (today)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (8 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (10 months ago)
 - [Почему std::max не всегда хорош?](https://zifter.github.io/programming/2020/09/16/max-disassemble.html) (1 year ago)
 - [Грязные хаки в leetcode.com - ускоряем свой код](https://zifter.github.io/programming/2020/09/06/leetcode-hack.html) (1 year ago)
-- [Как узнать id канала в Телеграм?](https://zifter.github.io/chatbot/programming/2020/03/15/telegram_bot_api.html) (2 years ago)
 
 #### 💬 Feedback
 
