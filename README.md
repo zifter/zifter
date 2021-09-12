@@ -7,18 +7,18 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 #### 👷 Check out what I'm currently working on
 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (today)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (4 days ago)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (5 days ago)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (2 months ago)
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics (5 months ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (8 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add more chart references](https://github.com/zifter/helm-charts/pull/18) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
-- [Clickhouse exporter](https://github.com/zifter/helm-charts/pull/17) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
-- [Kafka exporter, support sasl](https://github.com/zifter/helm-charts/pull/16) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
-- [Add kafka-exporter helm charts](https://github.com/zifter/helm-charts/pull/15) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
-- [Rework dashboard](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 days ago)
+- [Add more chart references](https://github.com/zifter/helm-charts/pull/18) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
+- [Clickhouse exporter](https://github.com/zifter/helm-charts/pull/17) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
+- [Kafka exporter, support sasl](https://github.com/zifter/helm-charts/pull/16) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
+- [Add kafka-exporter helm charts](https://github.com/zifter/helm-charts/pull/15) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 days ago)
+- [Rework dashboard](https://github.com/zifter/helm-charts/pull/14) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts kafka-exporter-0.1.2](https://github.com/zifter/helm-charts/releases/tag/kafka-exporter-0.1.2) (today)
-- [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (today)
+- [zifter/helm-charts kafka-exporter-0.1.2](https://github.com/zifter/helm-charts/releases/tag/kafka-exporter-0.1.2) (1 day ago)
+- [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (1 day ago)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (8 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (8 months ago)
 
