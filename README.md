@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (today)
 - [fix: whois request for capitalized and unicode domains](https://github.com/caarlos0/domain_exporter/pull/107) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (1 day ago)
 - [Domain exporter post](https://github.com/zifter/zifter.github.io/pull/5) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 day ago)
 - [Switch domain exporter to original exporter](https://github.com/zifter/helm-charts/pull/20) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
-- [Zookeeper exporter](https://github.com/zifter/helm-charts/pull/19) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter
@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts zookeeper-exporter-0.1.1](https://github.com/zifter/helm-charts/releases/tag/zookeeper-exporter-0.1.1) (today)
+- [zifter/helm-charts agones-dashboards-1.16.1](https://github.com/zifter/helm-charts/releases/tag/agones-dashboards-1.16.1) (today)
 - [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (2 days ago)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (8 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (8 months ago)
