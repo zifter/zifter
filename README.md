@@ -7,7 +7,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 #### 👷 Check out what I'm currently working on
 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm chart for domain exporter (1 week ago)
-- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (1 week ago)
+- [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (2 weeks ago)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (2 months ago)
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics (6 months ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (8 months ago)
@@ -15,8 +15,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 #### 🔨 My recent Pull Requests
 
 - [Use unittest plugin](https://github.com/zifter/helm-charts/pull/24) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
-- [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
-- [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
+- [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
+- [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [fix: whois request for capitalized and unicode domains](https://github.com/caarlos0/domain_exporter/pull/107) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (2 weeks ago)
 - [Domain exporter post](https://github.com/zifter/zifter.github.io/pull/5) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (2 weeks ago)
 
