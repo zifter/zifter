@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (today)
 - [Use unittest plugin](https://github.com/zifter/helm-charts/pull/24) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
 - [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
 - [fix: whois request for capitalized and unicode domains](https://github.com/caarlos0/domain_exporter/pull/107) on [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) (3 weeks ago)
-- [Domain exporter post](https://github.com/zifter/zifter.github.io/pull/5) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
