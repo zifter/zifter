@@ -14,7 +14,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (today)
+- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (1 day ago)
 - [Use unittest plugin](https://github.com/zifter/helm-charts/pull/24) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
 - [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
