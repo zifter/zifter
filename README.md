@@ -14,7 +14,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (1 day ago)
+- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (2 days ago)
 - [Use unittest plugin](https://github.com/zifter/helm-charts/pull/24) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [Add datasource and agones to dev cluster](https://github.com/zifter/helm-charts/pull/22) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
 - [Add agones dashboards chart](https://github.com/zifter/helm-charts/pull/21) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 ### 📄 Latest posts
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (3 weeks ago)
-- [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (8 months ago)
+- [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (9 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (11 months ago)
 - [Почему std::max не всегда хорош?](https://zifter.github.io/programming/2020/09/16/max-disassemble.html) (1 year ago)
 - [Грязные хаки в leetcode.com - ускоряем свой код](https://zifter.github.io/programming/2020/09/06/leetcode-hack.html) (1 year ago)
