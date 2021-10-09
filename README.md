@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Add ignore files](https://github.com/zifter/VacationPhotoSeparator/pull/5) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
 - [fixes for launching](https://github.com/zifter/VacationPhotoSeparator/pull/4) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
 - [Rewrite file policy](https://github.com/zifter/VacationPhotoSeparator/pull/3) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
 - [Refactoring](https://github.com/zifter/VacationPhotoSeparator/pull/2) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 days ago)
 - [Pytest workflows](https://github.com/zifter/VacationPhotoSeparator/pull/1) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 days ago)
-- [Prometheus metrics: Use ServiceMonitor instead of deprecated annotation mechanism](https://github.com/googleforgames/agones/pull/2290) on [googleforgames/agones](https://github.com/googleforgames/agones) (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
