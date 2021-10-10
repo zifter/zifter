@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (today)
+- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (1 day ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 weeks ago)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (3 weeks ago)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets (3 months ago)
@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Add ignore files](https://github.com/zifter/VacationPhotoSeparator/pull/5) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
-- [fixes for launching](https://github.com/zifter/VacationPhotoSeparator/pull/4) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
-- [Rewrite file policy](https://github.com/zifter/VacationPhotoSeparator/pull/3) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
-- [Refactoring](https://github.com/zifter/VacationPhotoSeparator/pull/2) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 days ago)
-- [Pytest workflows](https://github.com/zifter/VacationPhotoSeparator/pull/1) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 days ago)
+- [Add ignore files](https://github.com/zifter/VacationPhotoSeparator/pull/5) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
+- [fixes for launching](https://github.com/zifter/VacationPhotoSeparator/pull/4) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
+- [Rewrite file policy](https://github.com/zifter/VacationPhotoSeparator/pull/3) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
+- [Refactoring](https://github.com/zifter/VacationPhotoSeparator/pull/2) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 days ago)
+- [Pytest workflows](https://github.com/zifter/VacationPhotoSeparator/pull/1) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
@@ -28,11 +28,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 #### 🚀 Latest releases I've contributed to
 - [zifter/helm-charts zookeeper-exporter-0.1.2](https://github.com/zifter/helm-charts/releases/tag/zookeeper-exporter-0.1.2) (3 weeks ago)
 - [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (4 weeks ago)
-- [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (8 months ago)
+- [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (9 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (9 months ago)
 
 ### 📄 Latest posts
-- [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (3 weeks ago)
+- [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (4 weeks ago)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (9 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (11 months ago)
 - [Почему std::max не всегда хорош?](https://zifter.github.io/programming/2020/09/16/max-disassemble.html) (1 year ago)
