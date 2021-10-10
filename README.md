@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
 - [Add interactive input](https://github.com/zifter/VacationPhotoSeparator/pull/6) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (today)
 - [Add ignore files](https://github.com/zifter/VacationPhotoSeparator/pull/5) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
 - [fixes for launching](https://github.com/zifter/VacationPhotoSeparator/pull/4) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
-- [Rewrite file policy](https://github.com/zifter/VacationPhotoSeparator/pull/3) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
-- [Refactoring](https://github.com/zifter/VacationPhotoSeparator/pull/2) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
