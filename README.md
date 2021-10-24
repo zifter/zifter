@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (2 days ago)
+- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (3 days ago)
 - [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (1 week ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 month ago)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (1 month ago)
@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 day ago)
+- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 days ago)
 - [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 week ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 week ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 week ago)
-- [Add interactive input](https://github.com/zifter/VacationPhotoSeparator/pull/6) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 week ago)
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 weeks ago)
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 weeks ago)
+- [Add interactive input](https://github.com/zifter/VacationPhotoSeparator/pull/6) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
