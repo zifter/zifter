@@ -14,7 +14,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 week ago)
+- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 weeks ago)
 - [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 weeks ago)
 - [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 weeks ago)
 - [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 weeks ago)
@@ -34,7 +34,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 ### 📄 Latest posts
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (1 month ago)
-- [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (9 months ago)
+- [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (10 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (1 year ago)
 - [Почему std::max не всегда хорош?](https://zifter.github.io/programming/2020/09/16/max-disassemble.html) (1 year ago)
 - [Грязные хаки в leetcode.com - ускоряем свой код](https://zifter.github.io/programming/2020/09/06/leetcode-hack.html) (1 year ago)
