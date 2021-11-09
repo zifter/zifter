@@ -16,9 +16,9 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 - [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 weeks ago)
 - [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (3 weeks ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (4 weeks ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (4 weeks ago)
-- [Add interactive input](https://github.com/zifter/VacationPhotoSeparator/pull/6) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (4 weeks ago)
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 month ago)
+- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 month ago)
+- [Add interactive input](https://github.com/zifter/VacationPhotoSeparator/pull/6) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
@@ -26,10 +26,10 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.18.0](https://github.com/googleforgames/agones/releases/tag/v1.18.0) (3 weeks ago)
+- [googleforgames/agones v1.18.0](https://github.com/googleforgames/agones/releases/tag/v1.18.0) (4 weeks ago)
 - [zifter/helm-charts zookeeper-exporter-0.1.2](https://github.com/zifter/helm-charts/releases/tag/zookeeper-exporter-0.1.2) (1 month ago)
 - [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (1 month ago)
-- [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (9 months ago)
+- [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (10 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (10 months ago)
 
 ### 📄 Latest posts
