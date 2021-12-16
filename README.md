@@ -33,7 +33,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (11 months ago)
 
 ### 📄 Latest posts
-- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (5 days ago)
+- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (6 days ago)
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (3 months ago)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (11 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (1 year ago)
