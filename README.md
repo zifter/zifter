@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Reduce Docker image size](https://github.com/kiwigrid/k8s-sidecar/pull/149) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 day ago)
-- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (1 month ago)
+- [Show all helm release statuses](https://github.com/lensapp/lens/pull/4594) on [lensapp/lens](https://github.com/lensapp/lens) (1 day ago)
+- [Reduce Docker image size](https://github.com/kiwigrid/k8s-sidecar/pull/149) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (2 days ago)
+- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
 - [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
 - [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/7) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
