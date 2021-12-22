@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 week ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 weeks ago)
 - [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (1 month ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (2 months ago)
 - [caarlos0/domain_exporter](https://github.com/caarlos0/domain_exporter) - Exports the expiration time of your domains as prometheus metrics. (3 months ago)
@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Show all helm release statuses](https://github.com/lensapp/lens/pull/4594) on [lensapp/lens](https://github.com/lensapp/lens) (1 day ago)
-- [Reduce Docker image size](https://github.com/kiwigrid/k8s-sidecar/pull/149) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (2 days ago)
+- [Use tox](https://github.com/zifter/clickhouse-migrations/pull/1) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Show all helm release statuses](https://github.com/lensapp/lens/pull/4594) on [lensapp/lens](https://github.com/lensapp/lens) (2 days ago)
+- [Reduce Docker image size](https://github.com/kiwigrid/k8s-sidecar/pull/149) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (3 days ago)
 - [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
 - [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
-- [Fixes after usage](https://github.com/zifter/VacationPhotoSeparator/pull/8) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts tls-secret-0.1.0](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.0) (1 week ago)
-- [googleforgames/agones v1.19.0](https://github.com/googleforgames/agones/releases/tag/v1.19.0) (3 weeks ago)
+- [zifter/helm-charts tls-secret-0.1.0](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.0) (2 weeks ago)
+- [googleforgames/agones v1.19.0](https://github.com/googleforgames/agones/releases/tag/v1.19.0) (4 weeks ago)
 - [caarlos0/domain_exporter v1.14.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.14.0) (3 months ago)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (11 months ago)
 - [gogo/protobuf v1.3.2](https://github.com/gogo/protobuf/releases/tag/v1.3.2) (11 months ago)
