@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Use tox](https://github.com/zifter/clickhouse-migrations/pull/1) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Show all helm release statuses](https://github.com/lensapp/lens/pull/4594) on [lensapp/lens](https://github.com/lensapp/lens) (2 days ago)
-- [Reduce Docker image size](https://github.com/kiwigrid/k8s-sidecar/pull/149) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (3 days ago)
-- [Video compress feature](https://github.com/zifter/VacationPhotoSeparator/pull/10) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
-- [Review metabob fixes](https://github.com/zifter/VacationPhotoSeparator/pull/9) on [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) (2 months ago)
+- [Publish job](https://github.com/zifter/clickhouse-migrations/pull/3) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Create migrator class](https://github.com/zifter/clickhouse-migrations/pull/2) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Feature/create migrator class](https://github.com/delium/clickhouse-migrator/pull/5) on [delium/clickhouse-migrator](https://github.com/delium/clickhouse-migrator) (1 day ago)
+- [Use tox](https://github.com/zifter/clickhouse-migrations/pull/1) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Show all helm release statuses](https://github.com/lensapp/lens/pull/4594) on [lensapp/lens](https://github.com/lensapp/lens) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
