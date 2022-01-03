@@ -14,11 +14,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
+- [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (today)
 - [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
 - [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 - [Add CI badge to readme](https://github.com/zifter/clickhouse-migrations/pull/4) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 - [Fix actions](https://github.com/zifter/clickhouse-migrations/pull/3) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Switch to main branch](https://github.com/zifter/clickhouse-migrations/pull/2) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations)
@@ -32,12 +32,14 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [googleforgames/agones v1.19.0](https://github.com/googleforgames/agones/releases/tag/v1.19.0) (1 month ago)
 - [zifter/gracefull-shutdown-py 0.1.0](https://github.com/zifter/gracefull-shutdown-py/releases/tag/0.1.0) (11 months ago)
 
-### 📄 Latest posts
+#### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (3 weeks ago)
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (3 months ago)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (11 months ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (1 year ago)
-- [Почему std::max не всегда хорош?](https://zifter.github.io/programming/2020/09/16/max-disassemble.html) (1 year ago)
+
+#### Latest posts (medium in English)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (1 week ago)
 
 #### 💬 Feedback
 
