@@ -26,11 +26,18 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [{{ .Name }} {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
 
-### 📄 Latest posts
+#### 📄 Latest posts (personal blog in Russian)
 
-{{- range rss "https://zifter.github.io/feed.xml" 5 }}
+{{- range rss "https://zifter.github.io/feed.xml" 4 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
+
+#### Latest posts (medium in English)
+
+{{- range rss "https://medium.com/feed/@olegstrokachuk" 4 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
 {{- if sponsors 3 -}}
 
 #### ❤️ Sponsors
