@@ -18,7 +18,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Mutlistatement](https://github.com/zifter/clickhouse-migrations/pull/8) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
-- [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations)
@@ -26,11 +26,11 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.3.4](https://github.com/lensapp/lens/releases/tag/v5.3.4) (5 days ago)
+- [lensapp/lens v5.3.4](https://github.com/lensapp/lens/releases/tag/v5.3.4) (6 days ago)
 - [googleforgames/agones v1.20.0](https://github.com/googleforgames/agones/releases/tag/v1.20.0) (1 week ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (1 week ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (3 weeks ago)
-- [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (4 weeks ago)
+- [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (1 month ago)
