@@ -14,7 +14,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 🔨 My recent Pull Requests
 
-- [Add rq exporter](https://github.com/zifter/helm-charts/pull/25) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
+- [Add rq exporter](https://github.com/zifter/helm-charts/pull/25) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
 - [Mutlistatement](https://github.com/zifter/clickhouse-migrations/pull/8) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
@@ -26,9 +26,9 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.4.0-beta.1](https://github.com/lensapp/lens/releases/tag/v5.4.0-beta.1) (2 days ago)
+- [lensapp/lens v5.4.0-beta.1](https://github.com/lensapp/lens/releases/tag/v5.4.0-beta.1) (3 days ago)
 - [googleforgames/agones v1.20.0](https://github.com/googleforgames/agones/releases/tag/v1.20.0) (2 weeks ago)
-- [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (2 weeks ago)
+- [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (3 weeks ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (1 month ago)
 - [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (1 month ago)
 
