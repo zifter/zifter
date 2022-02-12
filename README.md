@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.21.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.21.0-rc) (1 day ago)
+- [googleforgames/agones v1.21.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.21.0-rc) (2 days ago)
 - [lensapp/lens v5.4.0-beta.1](https://github.com/lensapp/lens/releases/tag/v5.4.0-beta.1) (1 week ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (3 weeks ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (1 month ago)
