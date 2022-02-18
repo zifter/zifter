@@ -10,7 +10,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (1 month ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 month ago)
 - [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (3 months ago)
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (3 months ago)
+- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/prometheus-metrics-python-example](https://github.com/zifter/prometheus-metrics-python-example) - Example project in python for using prometheus metrics
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.4.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.4.0-beta.2) (1 day ago)
-- [googleforgames/agones v1.21.0](https://github.com/googleforgames/agones/releases/tag/v1.21.0) (1 day ago)
+- [lensapp/lens v5.4.0-beta.2](https://github.com/lensapp/lens/releases/tag/v5.4.0-beta.2) (2 days ago)
+- [googleforgames/agones v1.21.0](https://github.com/googleforgames/agones/releases/tag/v1.21.0) (2 days ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (1 month ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (1 month ago)
 - [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (1 month ago)
