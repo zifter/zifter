@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (2 weeks ago)
+- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (3 weeks ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 month ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 months ago)
@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.4.1](https://github.com/lensapp/lens/releases/tag/v5.4.1) (6 days ago)
+- [lensapp/lens v5.4.1](https://github.com/lensapp/lens/releases/tag/v5.4.1) (1 week ago)
 - [googleforgames/agones v1.21.0](https://github.com/googleforgames/agones/releases/tag/v1.21.0) (3 weeks ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (1 month ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (2 months ago)
@@ -34,7 +34,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (3 months ago)
-- [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (5 months ago)
+- [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (6 months ago)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (1 year ago)
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (1 year ago)
 
