@@ -10,7 +10,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (2 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (3 months ago)
-- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (4 months ago)
+- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.4.3](https://github.com/lensapp/lens/releases/tag/v5.4.3) (6 days ago)
+- [lensapp/lens v5.4.3](https://github.com/lensapp/lens/releases/tag/v5.4.3) (1 week ago)
 - [googleforgames/agones v1.21.0](https://github.com/googleforgames/agones/releases/tag/v1.21.0) (1 month ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (2 months ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (2 months ago)
