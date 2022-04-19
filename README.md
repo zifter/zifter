@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (1 month ago)
+- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (2 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (3 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (3 months ago)
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.22.0](https://github.com/googleforgames/agones/releases/tag/v1.22.0) (1 week ago)
-- [lensapp/lens v5.4.5](https://github.com/lensapp/lens/releases/tag/v5.4.5) (1 week ago)
+- [googleforgames/agones v1.22.0](https://github.com/googleforgames/agones/releases/tag/v1.22.0) (2 weeks ago)
+- [lensapp/lens v5.4.5](https://github.com/lensapp/lens/releases/tag/v5.4.5) (2 weeks ago)
 - [zifter/helm-charts tls-secret-0.1.1](https://github.com/zifter/helm-charts/releases/tag/tls-secret-0.1.1) (3 months ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (3 months ago)
 - [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (3 months ago)
