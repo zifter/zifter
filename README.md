@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 days ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 days ago)
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (2 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (3 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (4 months ago)
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.4.6](https://github.com/lensapp/lens/releases/tag/v5.4.6) (3 days ago)
-- [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (3 days ago)
+- [lensapp/lens v5.4.6](https://github.com/lensapp/lens/releases/tag/v5.4.6) (4 days ago)
+- [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (4 days ago)
 - [googleforgames/agones v1.22.0](https://github.com/googleforgames/agones/releases/tag/v1.22.0) (2 weeks ago)
 - [zifter/clickhouse-migrations 0.2.0](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.0) (3 months ago)
 - [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (3 months ago)
@@ -39,7 +39,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (3 months ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (4 months ago)
 
 #### 💬 Feedback
 
