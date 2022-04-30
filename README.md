@@ -17,7 +17,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Add rq exporter](https://github.com/zifter/helm-charts/pull/25) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 months ago)
 - [Mutlistatement](https://github.com/zifter/clickhouse-migrations/pull/8) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
 - [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
-- [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
+- [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 - [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
