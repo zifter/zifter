@@ -10,7 +10,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (4 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (5 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (6 months ago)
-- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (7 months ago)
+- [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (8 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.6.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.3) (1 day ago)
-- [googleforgames/agones v1.24.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.24.0-rc) (5 days ago)
+- [lensapp/lens v5.6.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.3) (2 days ago)
+- [googleforgames/agones v1.24.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.24.0-rc) (6 days ago)
 - [zifter/clickhouse-migrations 0.2.1](https://github.com/zifter/clickhouse-migrations/releases/tag/0.2.1) (1 month ago)
 - [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (2 months ago)
 - [caarlos0/domain_exporter v1.16.0](https://github.com/caarlos0/domain_exporter/releases/tag/v1.16.0) (5 months ago)
