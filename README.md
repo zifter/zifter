@@ -26,9 +26,9 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.2.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.2.2) (1 day ago)
-- [lensapp/lens v5.6.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.6) (1 week ago)
-- [caarlos0/domain_exporter v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (1 week ago)
+- [lensapp/lens v5.6.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.7) (1 day ago)
+- [zifter/clickhouse-migrations v0.2.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.2.2) (2 days ago)
+- [caarlos0/domain_exporter v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (2 weeks ago)
 - [googleforgames/agones v1.24.0](https://github.com/googleforgames/agones/releases/tag/v1.24.0) (3 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (2 months ago)
 
