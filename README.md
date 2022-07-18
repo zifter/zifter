@@ -7,7 +7,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 #### 👷 Check out what I'm currently working on
 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 months ago)
-- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (4 months ago)
+- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (5 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (6 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (6 months ago)
 - [zifter/VacationPhotoSeparator](https://github.com/zifter/VacationPhotoSeparator) - Photos (and not only) will be separated into output folders according to the date of creation. (8 months ago)
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v5.6.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.7) (4 days ago)
-- [zifter/clickhouse-migrations v0.2.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.2.2) (5 days ago)
+- [lensapp/lens v5.6.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v5.6.0-alpha.7) (5 days ago)
+- [zifter/clickhouse-migrations v0.2.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.2.2) (6 days ago)
 - [caarlos0/domain_exporter v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (2 weeks ago)
 - [googleforgames/agones v1.24.0](https://github.com/googleforgames/agones/releases/tag/v1.24.0) (3 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (2 months ago)
