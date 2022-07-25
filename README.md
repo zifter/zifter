@@ -18,7 +18,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Mutlistatement](https://github.com/zifter/clickhouse-migrations/pull/8) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
 - [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
 - [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
-- [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
+- [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (7 months ago)
 
 #### 👨‍💻 Repositories I created recently
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack.
