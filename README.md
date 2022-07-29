@@ -17,7 +17,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Add rq exporter](https://github.com/zifter/helm-charts/pull/25) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (6 months ago)
 - [Mutlistatement](https://github.com/zifter/clickhouse-migrations/pull/8) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
 - [Last refactoring](https://github.com/zifter/clickhouse-migrations/pull/7) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
-- [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
+- [Add migrations storage, it will helps to work with migrations to apply](https://github.com/zifter/clickhouse-migrations/pull/6) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (7 months ago)
 - [Add executable](https://github.com/zifter/clickhouse-migrations/pull/5) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (7 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -26,8 +26,8 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.25.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.25.0-rc) (1 day ago)
-- [lensapp/lens v6.0.0-alpha.0](https://github.com/lensapp/lens/releases/tag/v6.0.0-alpha.0) (3 days ago)
+- [lensapp/lens v6.0.0](https://github.com/lensapp/lens/releases/tag/v6.0.0) (1 day ago)
+- [googleforgames/agones v1.25.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.25.0-rc) (2 days ago)
 - [zifter/clickhouse-migrations v0.2.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.2.2) (2 weeks ago)
 - [caarlos0/domain_exporter v1.17.1](https://github.com/caarlos0/domain_exporter/releases/tag/v1.17.1) (4 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.1](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.1) (3 months ago)
