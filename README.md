@@ -6,7 +6,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (6 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) -  (1 week ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 months ago)
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (6 months ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (8 months ago)
