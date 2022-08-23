@@ -39,7 +39,7 @@ I'm Oleg! I'm a Developer based in Vilnius, Lithuania 🇱🇹, originally from 
 - [Ностальгия. Музыка из кейгенов](https://zifter.github.io/offtopic/2020/10/28/patch-music-nostalgia.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (7 months ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (8 months ago)
 
 #### 💬 Feedback
 
