@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
-{{- if sponsors -}}
+{{- if sponsors 3 -}}
 
 #### ❤️ Sponsors
 
