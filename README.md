@@ -17,9 +17,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Feature/product categories](https://github.com/zifter/byprice24/pull/217) on [zifter/byprice24](https://github.com/zifter/byprice24) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.0.2-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.2-beta.0) (2 days ago)
+- [googleforgames/agones v1.26.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.26.0-rc) (1 day ago)
+- [lensapp/lens v6.0.2-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.2-beta.0) (3 days ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (3 weeks ago)
-- [googleforgames/agones v1.25.0](https://github.com/googleforgames/agones/releases/tag/v1.25.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (9 months ago)
