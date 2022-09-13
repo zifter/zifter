@@ -12,14 +12,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
-- [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
+- [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Feature/product categories](https://github.com/zifter/byprice24/pull/217) on [zifter/byprice24](https://github.com/zifter/byprice24) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (3 days ago)
-- [googleforgames/agones v1.26.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.26.0-rc) (4 days ago)
-- [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (4 weeks ago)
+- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (4 days ago)
+- [googleforgames/agones v1.26.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.26.0-rc) (5 days ago)
+- [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (9 months ago)
