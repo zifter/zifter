@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [zifter/byprice24](https://github.com/zifter/byprice24) -  (4 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 months ago)
 
@@ -17,8 +17,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Feature/product categories](https://github.com/zifter/byprice24/pull/217) on [zifter/byprice24](https://github.com/zifter/byprice24) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (4 days ago)
-- [googleforgames/agones v1.26.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.26.0-rc) (5 days ago)
+- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (5 days ago)
+- [googleforgames/agones v1.26.0-rc](https://github.com/googleforgames/agones/releases/tag/v1.26.0-rc) (6 days ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
