@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [zifter/byprice24](https://github.com/zifter/byprice24) -  (4 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 day ago)
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
-- [Feature/product categories](https://github.com/zifter/byprice24/pull/217) on [zifter/byprice24](https://github.com/zifter/byprice24) (5 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (1 day ago)
-- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (6 days ago)
+- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (2 days ago)
+- [lensapp/lens v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2) (1 week ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
