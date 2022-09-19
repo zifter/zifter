@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 days ago)
-- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (3 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 days ago)
+- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (4 days ago)
 - [zifter/byprice24](https://github.com/zifter/byprice24) -  (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (3 days ago)
+- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (4 days ago)
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1) (2 days ago)
-- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (4 days ago)
+- [lensapp/lens v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1) (3 days ago)
+- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (5 days ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
