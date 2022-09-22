@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (6 days ago)
-- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (6 days ago)
-- [zifter/byprice24](https://github.com/zifter/byprice24) -  (4 months ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
+- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (1 week ago)
+- [zifter/byprice24](https://github.com/zifter/byprice24) -  (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (6 days ago)
+- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 week ago)
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0) (1 day ago)
+- [lensapp/lens v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1) (1 day ago)
 - [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (1 week ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (8 months ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (9 months ago)
 
 #### 💬 Feedback
 
