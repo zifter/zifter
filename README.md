@@ -6,13 +6,13 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
-- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (1 week ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
+- [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (2 weeks ago)
 - [zifter/byprice24](https://github.com/zifter/byprice24) -  (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 week ago)
+- [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (2 weeks ago)
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
