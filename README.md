@@ -17,8 +17,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Remove pandas](https://github.com/zifter/clickhouse-migrations/pull/10) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1) (1 week ago)
-- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (2 weeks ago)
+- [lensapp/lens v6.1.2](https://github.com/lensapp/lens/releases/tag/v6.1.2) (1 day ago)
+- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (3 weeks ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
