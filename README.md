@@ -12,7 +12,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (6 days ago)
+- [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 week ago)
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 month ago)
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
