@@ -18,8 +18,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🚀 Latest releases I've contributed to
 - [lensapp/lens v6.1.12](https://github.com/lensapp/lens/releases/tag/v6.1.12) (1 week ago)
-- [googleforgames/agones v1.26.0](https://github.com/googleforgames/agones/releases/tag/v1.26.0) (1 month ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (2 months ago)
+- [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (10 months ago)
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (9 months ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@olegstrokachuk/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (10 months ago)
 
 #### 💬 Feedback
 
