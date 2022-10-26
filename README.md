@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (1 week ago)
+- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (2 weeks ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (1 month ago)
 
@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Up dev packages](https://github.com/zifter/clickhouse-migrations/pull/11) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13) (1 day ago)
+- [lensapp/lens v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13) (2 days ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (2 months ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
 
