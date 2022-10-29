@@ -12,12 +12,12 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
 - [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13) (4 days ago)
+- [lensapp/lens v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14) (1 day ago)
 - [zifter/clickhouse-migrations v0.3.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.0) (2 months ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
 
