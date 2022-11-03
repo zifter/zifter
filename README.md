@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 days ago)
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (3 weeks ago)
 - [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 days ago)
+- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 - [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (2 weeks ago)
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (1 day ago)
-- [lensapp/lens v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14) (5 days ago)
+- [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (2 days ago)
+- [lensapp/lens v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14) (6 days ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
