@@ -7,17 +7,17 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
-- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (4 weeks ago)
+- [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (1 month ago)
 - [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) - The repository for the Altinity Knowledge Base located at https://kb.altinity.com (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
-- [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (3 weeks ago)
+- [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (4 weeks ago)
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.18](https://github.com/lensapp/lens/releases/tag/v6.1.18) (1 day ago)
+- [lensapp/lens v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19) (1 day ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (1 week ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
 
