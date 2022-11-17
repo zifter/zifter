@@ -12,14 +12,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
+- [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 month ago)
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19) (6 days ago)
+- [lensapp/lens v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19) (1 week ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (2 weeks ago)
-- [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (6 months ago)
+- [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (7 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (11 months ago)
