@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Add more migration tools for clickhouse](https://github.com/Altinity/altinityknowledgebase/pull/44) on [Altinity/altinityknowledgebase](https://github.com/Altinity/altinityknowledgebase) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.2.0](https://github.com/lensapp/lens/releases/tag/v6.2.0) (1 day ago)
+- [lensapp/lens v6.2.0](https://github.com/lensapp/lens/releases/tag/v6.2.0) (2 days ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (2 weeks ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (7 months ago)
 
