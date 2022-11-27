@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 days ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 weeks ago)
 - [zifter/k8s-keda-autoscaling-example](https://github.com/zifter/k8s-keda-autoscaling-example) - K8S autoscaling example built on keda project and prometheus stack. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix #1564. Ingress incorrect templating](https://github.com/mock-server/mockserver/pull/1565) on [mock-server/mockserver](https://github.com/mock-server/mockserver) (1 day ago)
+- [Fix #1564. Ingress incorrect templating](https://github.com/mock-server/mockserver/pull/1565) on [mock-server/mockserver](https://github.com/mock-server/mockserver) (2 days ago)
 - [Add python 3.11 support](https://github.com/zifter/clickhouse-migrations/pull/12) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Update gh-pages](https://github.com/zifter/helm-charts/pull/28) on [zifter/helm-charts](https://github.com/zifter/helm-charts) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.2.3](https://github.com/lensapp/lens/releases/tag/v6.2.3) (1 day ago)
+- [lensapp/lens v6.2.3](https://github.com/lensapp/lens/releases/tag/v6.2.3) (2 days ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (3 weeks ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (7 months ago)
 
