@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Fix #1564. Ingress incorrect templating](https://github.com/mock-server/mockserver/pull/1565) on [mock-server/mockserver](https://github.com/mock-server/mockserver) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
-- [lensapp/lens v6.2.4](https://github.com/lensapp/lens/releases/tag/v6.2.4) (6 days ago)
+- [lensapp/lens v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5) (1 day ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (1 month ago)
 - [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (7 months ago)
 
