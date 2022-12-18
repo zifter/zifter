@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (5 days ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (6 days ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (2 weeks ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 
@@ -14,10 +14,10 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [GRPC example - rewrite using interceptor](https://github.com/locustio/locust/pull/2272) on [locustio/locust](https://github.com/locustio/locust) (1 week ago)
 - [Fix py310-311](https://github.com/zifter/gracefull-shutdown-py/pull/1) on [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) (2 weeks ago)
-- [Fix empty rendered manifest](https://github.com/quintush/helm-unittest/pull/186) on [quintush/helm-unittest](https://github.com/quintush/helm-unittest) (2 weeks ago)
+- [Fix empty rendered manifest](https://github.com/quintush/helm-unittest/pull/186) on [quintush/helm-unittest](https://github.com/quintush/helm-unittest) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (5 days ago)
+- [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (6 days ago)
 - [lensapp/lens v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5) (1 week ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (1 month ago)
 
