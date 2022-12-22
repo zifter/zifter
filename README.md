@@ -17,8 +17,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Fix empty rendered manifest](https://github.com/quintush/helm-unittest/pull/186) on [quintush/helm-unittest](https://github.com/quintush/helm-unittest) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
+- [lensapp/lens v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0) (1 day ago)
 - [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (1 week ago)
-- [lensapp/lens v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5) (2 weeks ago)
 - [zifter/clickhouse-migrations v0.3.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.1) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
