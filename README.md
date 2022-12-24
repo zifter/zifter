@@ -6,20 +6,20 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (today)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 week ago)
 - [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) -  (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [#13 allow to configure port and other connection settings](https://github.com/zifter/clickhouse-migrations/pull/14) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [#13 allow to configure port and other connection settings](https://github.com/zifter/clickhouse-migrations/pull/14) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
 - [GRPC example - rewrite using interceptor](https://github.com/locustio/locust/pull/2272) on [locustio/locust](https://github.com/locustio/locust) (2 weeks ago)
 - [Fix py310-311](https://github.com/zifter/gracefull-shutdown-py/pull/1) on [zifter/gracefull-shutdown-py](https://github.com/zifter/gracefull-shutdown-py) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.3.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.2) (1 day ago)
-- [lensapp/lens v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0) (2 days ago)
+- [zifter/clickhouse-migrations v0.3.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.2) (2 days ago)
 - [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (1 week ago)
+- [zifter/byprice24 v4.5.0](https://github.com/zifter/byprice24/releases/tag/v4.5.0) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (1 year ago)
