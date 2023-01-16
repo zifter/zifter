@@ -28,7 +28,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### Latest posts (medium in English)
 
-{{- range rss "https://medium.com/feed/@olegstrokachuk" 3 }}
+{{- range rss "https://medium.com/feed/@zifter" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
