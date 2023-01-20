@@ -8,7 +8,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (1 day ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 weeks ago)
+- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [-](https://github.com/samarsault/plainwhite-jekyll/pull/119) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (3 days ago)
+- [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (4 days ago)
 - [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (2 weeks ago)
 - [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (1 month ago)
 
