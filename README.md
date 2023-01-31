@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (5 days ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 weeks ago)
+- [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (6 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [use remote theme in order to make it possible publish on github pages](https://github.com/zifter/zifter.github.io/pull/8) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (3 weeks ago)
-- [keda autoscaling](https://github.com/zifter/zifter.github.io/pull/7) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (3 weeks ago)
-- [-](https://github.com/samarsault/plainwhite-jekyll/pull/119) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (3 weeks ago)
+- [use remote theme in order to make it possible publish on github pages](https://github.com/zifter/zifter.github.io/pull/8) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (4 weeks ago)
+- [keda autoscaling](https://github.com/zifter/zifter.github.io/pull/7) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (4 weeks ago)
+- [-](https://github.com/samarsault/plainwhite-jekyll/pull/119) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (2 weeks ago)
-- [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (3 weeks ago)
+- [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (4 weeks ago)
 - [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (1 month ago)
 
 #### 📄 Latest posts (personal blog in Russian)
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 weeks ago)
+- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (4 weeks ago)
 - [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (1 year ago)
 
 #### 💬 Feedback
