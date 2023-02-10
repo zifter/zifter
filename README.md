@@ -19,7 +19,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 🚀 Latest releases I've contributed to
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (3 weeks ago)
 - [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (1 month ago)
-- [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (1 month ago)
+- [zifter/helm-charts domain-exporter-0.3.6](https://github.com/zifter/helm-charts/releases/tag/domain-exporter-0.3.6) (2 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (1 year ago)
