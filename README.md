@@ -12,9 +12,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
+- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (1 day ago)
 - [use remote theme in order to make it possible publish on github pages](https://github.com/zifter/zifter.github.io/pull/8) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
 - [keda autoscaling](https://github.com/zifter/zifter.github.io/pull/7) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
-- [-](https://github.com/samarsault/plainwhite-jekyll/pull/119) on [samarsault/plainwhite-jekyll](https://github.com/samarsault/plainwhite-jekyll) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (1 month ago)
