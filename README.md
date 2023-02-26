@@ -12,7 +12,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (1 day ago)
+- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (2 days ago)
 - [use remote theme in order to make it possible publish on github pages](https://github.com/zifter/zifter.github.io/pull/8) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
 - [keda autoscaling](https://github.com/zifter/zifter.github.io/pull/7) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
 
