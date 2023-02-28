@@ -8,11 +8,11 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (1 month ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (1 month ago)
+- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (3 days ago)
+- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (4 days ago)
 - [use remote theme in order to make it possible publish on github pages](https://github.com/zifter/zifter.github.io/pull/8) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
 - [keda autoscaling](https://github.com/zifter/zifter.github.io/pull/7) on [zifter/zifter.github.io](https://github.com/zifter/zifter.github.io) (1 month ago)
 
