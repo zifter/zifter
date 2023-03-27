@@ -6,14 +6,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (2 days ago)
+- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 days ago)
 - [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (2 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: show host url](https://github.com/locustio/locust/pull/2324) on [locustio/locust](https://github.com/locustio/locust) (6 days ago)
-- [[stable/locust] allow to configure nodeSelector, tolerations, affinity for worker explicitly](https://github.com/deliveryhero/helm-charts/pull/459) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (6 days ago)
+- [Fix: show host url](https://github.com/locustio/locust/pull/2324) on [locustio/locust](https://github.com/locustio/locust) (1 week ago)
+- [[stable/locust] allow to configure nodeSelector, tolerations, affinity for worker explicitly](https://github.com/deliveryhero/helm-charts/pull/459) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (1 week ago)
 - [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
