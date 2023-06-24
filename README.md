@@ -8,16 +8,16 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 weeks ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 months ago)
-- [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (4 months ago)
+- [zifter/insanity-clicker-autoclicker](https://github.com/zifter/insanity-clicker-autoclicker) -  (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Fix: show host url](https://github.com/locustio/locust/pull/2324) on [locustio/locust](https://github.com/locustio/locust) (3 months ago)
 - [[stable/locust] allow to configure nodeSelector, tolerations, affinity for worker explicitly](https://github.com/deliveryhero/helm-charts/pull/459) on [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) (3 months ago)
-- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (3 months ago)
+- [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/u-trust-bot v0.2.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.2.0) (4 days ago)
+- [zifter/u-trust-bot v0.2.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.2.0) (5 days ago)
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (5 months ago)
 - [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (5 months ago)
 
