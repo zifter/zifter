@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/u-trust-bot v0.5.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.5.0) (3 days ago)
+- [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (1 day ago)
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (5 months ago)
 - [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (6 months ago)
 
