@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/example-gke-config-connector-pubsub](https://github.com/zifter/example-gke-config-connector-pubsub) - Leveraging Config Connector to Control Pub/Sub Inside GKE: A Complete Example for Granting Access to Pods (5 days ago)
+- [zifter/example-gke-config-connector-pubsub](https://github.com/zifter/example-gke-config-connector-pubsub) - Leveraging Config Connector to Control Pub/Sub Inside GKE: A Complete Example for Granting Access to Pods (6 days ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
 - [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (3 months ago)
 
