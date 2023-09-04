@@ -6,9 +6,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (6 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 week ago)
 - [zifter/example-gke-config-connector-pubsub](https://github.com/zifter/example-gke-config-connector-pubsub) - Leveraging Config Connector to Control Pub/Sub Inside GKE: A Complete Example for Granting Access to Pods (2 months ago)
-- [deliveryhero/helm-charts](https://github.com/deliveryhero/helm-charts) - Helm Charts ⛵ @ Delivery Hero ⭐ (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -17,9 +17,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Allow to change worker id pattern](https://github.com/locustio/locust/pull/2305) on [locustio/locust](https://github.com/locustio/locust) (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
+- [zifter/clickhouse-migrations v0.3.4](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.4) (1 day ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (2 months ago)
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (7 months ago)
-- [zifter/clickhouse-migrations v0.3.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.3.3) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (2 years ago)
