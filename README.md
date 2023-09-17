@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (5 days ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 weeks ago)
 - [zifter/example-gke-config-connector-pubsub](https://github.com/zifter/example-gke-config-connector-pubsub) - Leveraging Config Connector to Control Pub/Sub Inside GKE: A Complete Example for Granting Access to Pods (2 months ago)
 
