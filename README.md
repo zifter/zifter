@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 days ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (3 weeks ago)
 - [zifter/example-gke-config-connector-pubsub](https://github.com/zifter/example-gke-config-connector-pubsub) - Leveraging Config Connector to Control Pub/Sub Inside GKE: A Complete Example for Granting Access to Pods (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
+- [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 - [Fix: show host url](https://github.com/locustio/locust/pull/2324) on [locustio/locust](https://github.com/locustio/locust) (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.4.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.1) (1 day ago)
+- [zifter/clickhouse-migrations v0.4.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.1) (2 days ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (2 months ago)
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (8 months ago)
 
