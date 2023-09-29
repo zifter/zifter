@@ -6,8 +6,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (5 days ago)
-- [zifter/unireport](https://github.com/zifter/unireport) -  (5 days ago)
+- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (6 days ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (6 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
 
 #### 🔨 My recent Pull Requests
