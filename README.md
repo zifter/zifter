@@ -6,13 +6,13 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (6 days ago)
-- [zifter/unireport](https://github.com/zifter/unireport) -  (6 days ago)
+- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (1 week ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (1 week ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
+- [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Fix: show host url](https://github.com/locustio/locust/pull/2324) on [locustio/locust](https://github.com/locustio/locust) (6 months ago)
 
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (2 years ago)
 
 #### Latest posts (medium in English)
-- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (8 months ago)
+- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (9 months ago)
 - [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (2 years ago)
 
 #### 💬 Feedback
