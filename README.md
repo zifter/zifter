@@ -18,7 +18,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.4.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.1) (1 week ago)
-- [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (2 months ago)
+- [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (3 months ago)
 - [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
