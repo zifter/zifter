@@ -6,20 +6,20 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (1 week ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 week ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
+- [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (1 day ago)
+- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (2 days ago)
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
-- [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.4.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.1) (2 weeks ago)
+- [zifter/unireport v0.0.1](https://github.com/zifter/unireport/releases/tag/v0.0.1) (1 day ago)
+- [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (1 day ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (3 months ago)
-- [zifter/graceful-shutdown-py v0.3.0](https://github.com/zifter/graceful-shutdown-py/releases/tag/v0.3.0) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (2 years ago)
