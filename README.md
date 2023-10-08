@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 days ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (2 weeks ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (3 days ago)
+- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (4 days ago)
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
 - [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (1 day ago)
-- [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (2 days ago)
+- [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (2 days ago)
+- [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (3 days ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (3 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
