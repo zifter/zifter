@@ -12,7 +12,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (2 weeks ago)
+- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (3 weeks ago)
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
