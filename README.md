@@ -12,9 +12,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
+- [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (1 day ago)
 - [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (1 month ago)
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
-- [Use parameterized for launching table tests](https://github.com/zifter/clickhouse-migrations/pull/18) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (1 month ago)
