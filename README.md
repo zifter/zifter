@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (2 months ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (3 weeks ago)
+- [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (4 weeks ago)
 - [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (2 months ago)
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (1 month ago)
-- [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (1 month ago)
+- [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (2 months ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (5 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
