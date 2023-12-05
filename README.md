@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Add support of python 3.12](https://github.com/zifter/clickhouse-migrations/pull/19) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (1 month ago)
+- [zifter/unireport v0.0.5](https://github.com/zifter/unireport/releases/tag/v0.0.5) (2 months ago)
 - [zifter/clickhouse-migrations v0.4.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.4.2) (2 months ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (5 months ago)
 
