@@ -14,7 +14,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (2 weeks ago)
 - [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (1 month ago)
-- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (2 months ago)
+- [Allow to configure log format in helm chart](https://github.com/googleforgames/open-match/pull/1600) on [googleforgames/open-match](https://github.com/googleforgames/open-match) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.6](https://github.com/zifter/unireport/releases/tag/v0.0.6) (2 weeks ago)
