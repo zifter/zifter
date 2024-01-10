@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 days ago)
-- [zifter/unireport](https://github.com/zifter/unireport) -  (3 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (5 days ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (4 weeks ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 days ago)
-- [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (3 weeks ago)
+- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 days ago)
+- [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (4 weeks ago)
 - [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (5 days ago)
-- [zifter/unireport v0.0.6](https://github.com/zifter/unireport/releases/tag/v0.0.6) (3 weeks ago)
+- [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (6 days ago)
+- [zifter/unireport v0.0.6](https://github.com/zifter/unireport/releases/tag/v0.0.6) (4 weeks ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (6 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
