@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/unireport v0.0.7](https://github.com/zifter/unireport/releases/tag/v0.0.7) (2 days ago)
+- [zifter/unireport v0.0.7](https://github.com/zifter/unireport/releases/tag/v0.0.7) (3 days ago)
 - [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (3 weeks ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (6 months ago)
 
