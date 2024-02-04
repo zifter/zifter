@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (4 months ago)
 
@@ -14,7 +14,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 - [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (1 month ago)
-- [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (2 months ago)
+- [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.7](https://github.com/zifter/unireport/releases/tag/v0.0.7) (1 week ago)
