@@ -12,13 +12,13 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
+- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 - [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (2 months ago)
 - [Fix docs: modern UI developing guide](https://github.com/locustio/locust/pull/2446) on [locustio/locust](https://github.com/locustio/locust) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.7](https://github.com/zifter/unireport/releases/tag/v0.0.7) (1 month ago)
-- [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (1 month ago)
+- [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (2 months ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
