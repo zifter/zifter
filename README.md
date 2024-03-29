@@ -19,7 +19,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.7](https://github.com/zifter/unireport/releases/tag/v0.0.7) (2 months ago)
 - [zifter/clickhouse-migrations v0.5.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.5.0) (2 months ago)
-- [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (8 months ago)
+- [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (9 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (2 years ago)
