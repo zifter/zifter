@@ -13,7 +13,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 🔨 My recent Pull Requests
 
 - [Able to render multiple grafana endpoints](https://github.com/zifter/unireport/pull/2) on [zifter/unireport](https://github.com/zifter/unireport) (1 month ago)
-- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
+- [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 months ago)
 - [Add retry and stub for failed dashboard](https://github.com/zifter/unireport/pull/1) on [zifter/unireport](https://github.com/zifter/unireport) (5 months ago)
 
 #### 🚀 Latest releases I've contributed to
