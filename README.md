@@ -7,7 +7,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (8 months ago)
 
 #### 🔨 My recent Pull Requests
@@ -18,7 +18,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/unireport v0.0.8](https://github.com/zifter/unireport/releases/tag/v0.0.8) (1 month ago)
-- [zifter/clickhouse-migrations v0.6.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.6.0) (1 month ago)
+- [zifter/clickhouse-migrations v0.6.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.6.0) (2 months ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (11 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
