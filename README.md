@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/unireport](https://github.com/zifter/unireport) -  (6 days ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (1 week ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (6 days ago)
+- [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (1 week ago)
 - [Able to render multiple grafana endpoints](https://github.com/zifter/unireport/pull/2) on [zifter/unireport](https://github.com/zifter/unireport) (2 months ago)
 - [Use pyproject](https://github.com/zifter/clickhouse-migrations/pull/22) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (6 days ago)
+- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 week ago)
 - [zifter/clickhouse-migrations v0.6.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.6.0) (2 months ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (11 months ago)
 
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (3 years ago)
 
 #### Latest posts (medium in English)
-- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (1 year ago)
+- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (2 years ago)
 - [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (2 years ago)
 
 #### 💬 Feedback
