@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 days ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (2 weeks ago)
 - [zifter/ltquiz-bot](https://github.com/zifter/ltquiz-bot) -  (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [#24 Allow connection string for initialization of ClickhouseCluster](https://github.com/zifter/clickhouse-migrations/pull/25) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [#24 Allow connection string for initialization of ClickhouseCluster](https://github.com/zifter/clickhouse-migrations/pull/25) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
 - [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (2 days ago)
+- [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (3 days ago)
 - [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (2 weeks ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (1 year ago)
 
