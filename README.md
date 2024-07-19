@@ -8,17 +8,17 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 week ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
-- [zifter/unireport](https://github.com/zifter/unireport) -  (4 weeks ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 - [#24 Allow connection string for initialization of ClickhouseCluster](https://github.com/zifter/clickhouse-migrations/pull/25) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
-- [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (4 weeks ago)
+- [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (2 weeks ago)
-- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (4 weeks ago)
+- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 month ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (1 year ago)
 
 #### 📄 Latest posts (personal blog in Russian)
