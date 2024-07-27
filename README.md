@@ -12,9 +12,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
+- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (1 day ago)
+- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (1 day ago)
 - [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
-- [#24 Allow connection string for initialization of ClickhouseCluster](https://github.com/zifter/clickhouse-migrations/pull/25) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
-- [Ability to change retry](https://github.com/zifter/unireport/pull/3) on [zifter/unireport](https://github.com/zifter/unireport) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (3 weeks ago)
