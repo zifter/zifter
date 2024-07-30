@@ -6,14 +6,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 weeks ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (3 weeks ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (3 days ago)
-- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (3 days ago)
+- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (4 days ago)
+- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (4 days ago)
 - [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
