@@ -7,17 +7,17 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (3 weeks ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (4 days ago)
-- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (4 days ago)
-- [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (5 days ago)
+- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (5 days ago)
+- [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (4 weeks ago)
+- [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (1 month ago)
 - [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 month ago)
 - [zifter/u-trust-bot v0.6.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.0) (1 year ago)
 
