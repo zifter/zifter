@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Allow default db name #24](https://github.com/zifter/clickhouse-migrations/pull/26) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (2 days ago)
+- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (3 days ago)
 - [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (1 month ago)
 - [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 month ago)
 
