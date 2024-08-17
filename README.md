@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add explicit migrations and fake option to update applied migrations. Resolve #27](https://github.com/zifter/clickhouse-migrations/pull/28) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [prepare for c4](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/pull/215) on [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) (3 weeks ago)
-- [add c4 instance series](https://github.com/Cyclenerd/google-cloud-compute-machine-types/pull/25) on [Cyclenerd/google-cloud-compute-machine-types](https://github.com/Cyclenerd/google-cloud-compute-machine-types) (3 weeks ago)
+- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add explicit migrations and fake option to update applied migrations. Resolve #27](https://github.com/zifter/clickhouse-migrations/pull/28) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (6 days ago)
+- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (1 week ago)
 - [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (1 month ago)
 - [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 month ago)
 
