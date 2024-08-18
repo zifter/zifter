@@ -6,20 +6,20 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (today)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
-- [zifter/unireport](https://github.com/zifter/unireport) -  (1 month ago)
+- [zifter/unireport](https://github.com/zifter/unireport) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Add explicit migrations and fake option to update applied migrations. Resolve #27](https://github.com/zifter/clickhouse-migrations/pull/28) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Add explicit migrations and fake option to update applied migrations. Resolve #27](https://github.com/zifter/clickhouse-migrations/pull/28) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
+- [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (1 day ago)
 - [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (1 week ago)
-- [zifter/clickhouse-migrations v0.7.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.7.1) (1 month ago)
-- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (1 month ago)
+- [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (2 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (2 years ago)
