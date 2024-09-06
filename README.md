@@ -12,9 +12,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
-- [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (1 day ago)
-- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
-- [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
+- [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (2 days ago)
+- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
+- [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (2 weeks ago)
