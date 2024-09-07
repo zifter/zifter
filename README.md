@@ -7,18 +7,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 months ago)
 - [zifter/unireport](https://github.com/zifter/unireport) -  (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (2 days ago)
+- [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (3 days ago)
 - [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 - [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (2 weeks ago)
-- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (3 weeks ago)
+- [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (3 weeks ago)
+- [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (4 weeks ago)
 - [zifter/unireport v0.0.9](https://github.com/zifter/unireport/releases/tag/v0.0.9) (2 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
