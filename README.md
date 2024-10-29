@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more. (2 weeks ago)
+- [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more. (3 weeks ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (3 months ago)
 
