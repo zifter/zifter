@@ -18,7 +18,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🚀 Latest releases I've contributed to
 - [googleforgames/quilkin v0.9.0](https://github.com/googleforgames/quilkin/releases/tag/v0.9.0) (2 months ago)
-- [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (2 months ago)
+- [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (3 months ago)
 - [zifter/u-trust-bot v0.6.1](https://github.com/zifter/u-trust-bot/releases/tag/v0.6.1) (3 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
