@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 days ago)
+- [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (3 days ago)
 - [zifter/agones-event-log](https://github.com/zifter/agones-event-log) -  (2 weeks ago)
 - [googleforgames/quilkin](https://github.com/googleforgames/quilkin) - Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more. (1 month ago)
 
