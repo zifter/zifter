@@ -17,12 +17,12 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (3 days ago)
+- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (4 days ago)
 - [googleforgames/quilkin v0.9.0](https://github.com/googleforgames/quilkin/releases/tag/v0.9.0) (3 months ago)
 - [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (3 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
-- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (2 years ago)
+- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (3 years ago)
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (3 years ago)
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (3 years ago)
 
