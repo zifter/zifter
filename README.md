@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 day ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 days ago)
 - [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (1 week ago)
 - [zifter/agones-event-log](https://github.com/zifter/agones-event-log) -  (4 weeks ago)
 
@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (6 days ago)
+- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (1 week ago)
 - [googleforgames/quilkin v0.9.0](https://github.com/googleforgames/quilkin/releases/tag/v0.9.0) (3 months ago)
 - [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (3 months ago)
 
