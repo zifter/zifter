@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (5 days ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (6 days ago)
 - [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 weeks ago)
 - [zifter/agones-event-log](https://github.com/zifter/agones-event-log) -  (1 month ago)
 
