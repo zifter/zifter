@@ -28,7 +28,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### Latest posts (medium in English)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (2 years ago)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (2 years ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (3 years ago)
 
 #### 💬 Feedback
 
