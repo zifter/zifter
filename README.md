@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Use ubuntu 22.04](https://github.com/zifter/clickhouse-migrations/pull/29) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (2 weeks ago)
+- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (3 weeks ago)
 - [googleforgames/quilkin v0.9.0](https://github.com/googleforgames/quilkin/releases/tag/v0.9.0) (3 months ago)
 - [zifter/clickhouse-migrations v0.8.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.0) (3 months ago)
 
