@@ -6,13 +6,13 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (5 days ago)
+- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (6 days ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
 - [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (1 week ago)
+- [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (2 weeks ago)
 - [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (4 months ago)
 - [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 months ago)
 
