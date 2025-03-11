@@ -12,12 +12,12 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 🔨 My recent Pull Requests
 
+- [Support new versions](https://github.com/zifter/locust_exporter/pull/2) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (1 day ago)
+- [reset metrics](https://github.com/zifter/locust_exporter/pull/1) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (1 day ago)
 - [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (2 months ago)
-- [improvement: add note about measure units of jitter metric](https://github.com/googleforgames/quilkin/pull/1014) on [googleforgames/quilkin](https://github.com/googleforgames/quilkin) (6 months ago)
-- [Bugfix/fix ci](https://github.com/zifter/clickhouse-migrations/pull/30) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.47.0](https://github.com/googleforgames/agones/releases/tag/v1.47.0) (3 weeks ago)
+- [googleforgames/agones v1.47.0](https://github.com/googleforgames/agones/releases/tag/v1.47.0) (4 weeks ago)
 - [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (3 months ago)
 - [googleforgames/quilkin v0.9.0](https://github.com/googleforgames/quilkin/releases/tag/v0.9.0) (6 months ago)
 
