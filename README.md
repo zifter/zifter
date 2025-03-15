@@ -6,14 +6,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (1 month ago)
+- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (2 months ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (3 months ago)
-- [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (3 months ago)
+- [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Support new versions](https://github.com/zifter/locust_exporter/pull/2) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (4 days ago)
-- [reset metrics](https://github.com/zifter/locust_exporter/pull/1) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (4 days ago)
+- [Support new versions](https://github.com/zifter/locust_exporter/pull/2) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (5 days ago)
+- [reset metrics](https://github.com/zifter/locust_exporter/pull/1) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (5 days ago)
 - [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
