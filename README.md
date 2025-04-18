@@ -6,7 +6,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (3 months ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (4 months ago)
 
