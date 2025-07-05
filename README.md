@@ -14,7 +14,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 - [Support new versions](https://github.com/zifter/locust_exporter/pull/2) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (3 months ago)
 - [reset metrics](https://github.com/zifter/locust_exporter/pull/1) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (3 months ago)
-- [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (5 months ago)
+- [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [googleforgames/agones v1.50.0](https://github.com/googleforgames/agones/releases/tag/v1.50.0) (2 weeks ago)
