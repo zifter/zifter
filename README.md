@@ -17,8 +17,8 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.50.0](https://github.com/googleforgames/agones/releases/tag/v1.50.0) (3 weeks ago)
-- [zifter/clickhouse-migrations v0.8.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.1) (3 months ago)
+- [googleforgames/agones v1.50.0](https://github.com/googleforgames/agones/releases/tag/v1.50.0) (4 weeks ago)
+- [zifter/clickhouse-migrations v0.8.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.1) (4 months ago)
 - [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (7 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
