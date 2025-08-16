@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 months ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (7 months ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (8 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Support new versions](https://github.com/zifter/locust_exporter/pull/2) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (5 months ago)
-- [reset metrics](https://github.com/zifter/locust_exporter/pull/1) on [zifter/locust_exporter](https://github.com/zifter/locust_exporter) (5 months ago)
-- [Add ability to change externalTrafficPolicy for agones-ping services (http&amp;udp)](https://github.com/googleforgames/agones/pull/4083) on [googleforgames/agones](https://github.com/googleforgames/agones) (7 months ago)
+- [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Prepare new release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/33) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
+- [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (1 day ago)
 - [googleforgames/agones v1.51.0](https://github.com/googleforgames/agones/releases/tag/v1.51.0) (2 weeks ago)
-- [zifter/clickhouse-migrations v0.8.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.8.1) (5 months ago)
 - [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
