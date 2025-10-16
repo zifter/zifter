@@ -17,9 +17,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Prepare new release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/33) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.52.2](https://github.com/googleforgames/agones/releases/tag/v1.52.2) (1 week ago)
+- [googleforgames/agones v1.52.2](https://github.com/googleforgames/agones/releases/tag/v1.52.2) (2 weeks ago)
 - [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (2 months ago)
-- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (10 months ago)
+- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (11 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (3 years ago)
