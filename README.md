@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 day ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 months ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (9 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (1 day ago)
+- [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (2 days ago)
 - [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 - [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (1 day ago)
+- [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (2 days ago)
 - [googleforgames/agones v1.52.2](https://github.com/googleforgames/agones/releases/tag/v1.52.2) (2 weeks ago)
 - [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (2 months ago)
 
