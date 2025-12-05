@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.53.0](https://github.com/googleforgames/agones/releases/tag/v1.53.0) (1 month ago)
+- [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (1 day ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (1 month ago)
 - [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (3 months ago)
 
@@ -28,7 +28,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### Latest posts (medium in English)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (2 years ago)
-- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (3 years ago)
+- [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (4 years ago)
 
 #### 💬 Feedback
 
