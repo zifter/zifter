@@ -7,19 +7,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 months ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 months ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (1 month ago)
-- [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
-- [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 months ago)
+- [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
+- [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (1 week ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (1 month ago)
-- [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (3 months ago)
+- [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (4 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (4 years ago)
