@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
+- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (2 months ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 months ago)
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes (11 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (1 month ago)
+- [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (2 months ago)
 - [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 - [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (1 week ago)
-- [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (1 month ago)
+- [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (2 weeks ago)
+- [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (2 months ago)
 - [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (4 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
@@ -27,7 +27,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (5 years ago)
 
 #### Latest posts (medium in English)
-- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (2 years ago)
+- [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 - [Automation of domain expiration checking with prometheus-stack in Kubernetes](https://medium.com/@zifter/automation-of-domain-expiration-checking-with-prometheus-stack-in-kubernetes-ea4e4571f5b4?source=rss-766601af1f16------2) (4 years ago)
 
 #### 💬 Feedback
