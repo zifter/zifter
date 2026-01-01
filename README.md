@@ -17,7 +17,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
-- [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (3 weeks ago)
+- [googleforgames/agones v1.54.0](https://github.com/googleforgames/agones/releases/tag/v1.54.0) (4 weeks ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (2 months ago)
 - [zifter/clickhouse-migrations v0.9.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.9.1) (4 months ago)
 
