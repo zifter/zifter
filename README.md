@@ -6,14 +6,14 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
 - [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (8 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Improve README documentation](https://github.com/zifter/clickhouse-migrations/pull/41) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add Python 3.14 support](https://github.com/zifter/clickhouse-migrations/pull/40) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 - [Feature/upgrade](https://github.com/zifter/u-trust-bot/pull/4) on [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) (6 months ago)
-- [Fix pypi tag](https://github.com/zifter/clickhouse-migrations/pull/35) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (8 months ago)
-- [Prepare release 0.9.0](https://github.com/zifter/clickhouse-migrations/pull/34) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (8 months ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (6 months ago)
