@@ -6,9 +6,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 day ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
 - [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 weeks ago)
-- [zifter/u-trust-bot](https://github.com/zifter/u-trust-bot) - Telegram Personal Assistent (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -17,9 +17,9 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 - [Add star history chart to README](https://github.com/zifter/clickhouse-migrations/pull/42) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
+- [zifter/helm-charts rq-exporter-0.2.3](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.3) (1 day ago)
 - [zifter/clickhouse-migrations v0.10.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.10.0) (2 weeks ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (6 months ago)
-- [zifter/textfile-exporter v0.0.4](https://github.com/zifter/textfile-exporter/releases/tag/v0.0.4) (1 year ago)
 
 #### 📄 Latest posts (personal blog in Russian)
 - [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (4 years ago)
