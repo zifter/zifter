@@ -6,19 +6,19 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 week ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (today)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 month ago)
 - [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Prepare release 0.11.0](https://github.com/zifter/clickhouse-migrations/pull/45) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Prepare release 0.10.0](https://github.com/zifter/clickhouse-migrations/pull/43) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
-- [Update Go to 1.24, fix code issues, add detailed README](https://github.com/zifter/textfile-exporter/pull/1) on [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) (2 months ago)
+- [Add GitHub Action and Docker image for running migrations](https://github.com/zifter/clickhouse-migrations/pull/54) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add Python clickhouse-migrations to schema migration tools (and disambiguate the Node.js entry)](https://github.com/ClickHouse/clickhouse-docs/pull/6477) on [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) (1 day ago)
+- [Fix outdated multi-statement caveat in README](https://github.com/zifter/clickhouse-migrations/pull/53) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.11.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.11.0) (1 week ago)
-- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (3 weeks ago)
+- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 weeks ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (8 months ago)
 
 #### 📄 Latest posts (personal blog in Russian)
