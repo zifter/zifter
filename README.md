@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (today)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - Official documentation for ClickHouse - the fastest and most resource efficient real-time data warehouse and open-source database. (1 day ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 month ago)
-- [zifter/textfile-exporter](https://github.com/zifter/textfile-exporter) - Export metrics from text filee (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add GitHub Action and Docker image for running migrations](https://github.com/zifter/clickhouse-migrations/pull/54) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Add Python clickhouse-migrations to schema migration tools (and disambiguate the Node.js entry)](https://github.com/ClickHouse/clickhouse-docs/pull/6477) on [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) (1 day ago)
-- [Fix outdated multi-statement caveat in README](https://github.com/zifter/clickhouse-migrations/pull/53) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [CHANGELOG: add the v0.12.0 entry](https://github.com/zifter/clickhouse-migrations/pull/66) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Bundle both drivers in the Docker image and GitHub Action](https://github.com/zifter/clickhouse-migrations/pull/64) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [README polish: tighter above-the-fold, fixed PyPI badge, social preview](https://github.com/zifter/clickhouse-migrations/pull/63) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.11.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.11.0) (1 week ago)
+- [zifter/clickhouse-migrations v0.12.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.12.0) (1 day ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 weeks ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (8 months ago)
 
