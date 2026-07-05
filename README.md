@@ -6,18 +6,18 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 days ago)
-- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - Official documentation for ClickHouse - the fastest and most resource efficient real-time data warehouse and open-source database. (2 days ago)
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (1 month ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (3 days ago)
+- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - Official documentation for ClickHouse - the fastest and most resource efficient real-time data warehouse and open-source database. (3 days ago)
+- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [CHANGELOG: add the v0.12.0 entry](https://github.com/zifter/clickhouse-migrations/pull/66) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [Bundle both drivers in the Docker image and GitHub Action](https://github.com/zifter/clickhouse-migrations/pull/64) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [README polish: tighter above-the-fold, fixed PyPI badge, social preview](https://github.com/zifter/clickhouse-migrations/pull/63) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [CHANGELOG: add the v0.12.0 entry](https://github.com/zifter/clickhouse-migrations/pull/66) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [Bundle both drivers in the Docker image and GitHub Action](https://github.com/zifter/clickhouse-migrations/pull/64) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [README polish: tighter above-the-fold, fixed PyPI badge, social preview](https://github.com/zifter/clickhouse-migrations/pull/63) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.12.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.12.0) (2 days ago)
+- [zifter/clickhouse-migrations v0.12.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.12.0) (3 days ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (1 month ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (8 months ago)
 
