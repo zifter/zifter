@@ -7,7 +7,7 @@ I'm Oleg! I'm a Software Developer based in Vilnius, Lithuania 🇱🇹, origina
 #### 👷 Check out what I'm currently working on
 
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (2 weeks ago)
-- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - Official documentation for ClickHouse - the fastest and most resource efficient real-time data warehouse and open-source database. (2 weeks ago)
+- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - Official documentation for ClickHouse - the fastest and most resource efficient real-time data warehouse and open-source database. (3 weeks ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (2 months ago)
 
 #### 🔨 My recent Pull Requests
