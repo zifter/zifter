@@ -2,7 +2,7 @@
 
 I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally from Minsk, Belarus.
 
-[![Twitter](https://img.shields.io/badge/Twitter-@zifter__ai-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/zifter_ai)
+[![Telegram](https://img.shields.io/badge/Telegram-@zifter__coder-26A5E4?logo=telegram&logoColor=white)](https://t.me/zifter_coder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleh%20Strakachuk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleh-strakachuk-67061543/)
 [![Blog](https://img.shields.io/badge/Blog-zifter.github.io-f2b632?logo=rss&logoColor=white)](https://zifter.github.io/)
 [![Email](https://img.shields.io/badge/Email-zifter.ai%2Bgithub%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zifter.ai+github@gmail.com)
@@ -11,12 +11,15 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🛠️ Tech stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Game Dev](https://img.shields.io/badge/-Game%20Dev-8A2BE2?style=flat&logo=unity&logoColor=white)
 
 #### 🌟 Featured project
 
