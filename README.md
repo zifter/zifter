@@ -32,18 +32,18 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (4 weeks ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (1 month ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Update Star History chart to sealed-token embed](https://github.com/zifter/clickhouse-migrations/pull/72) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
-- [Fix broken Star History chart (self-contained SVG &#43; refresh workflow)](https://github.com/zifter/clickhouse-migrations/pull/71) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
-- [CHANGELOG: add the v0.13.0 entry](https://github.com/zifter/clickhouse-migrations/pull/70) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [Update Star History chart to sealed-token embed](https://github.com/zifter/clickhouse-migrations/pull/72) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
+- [Fix broken Star History chart (self-contained SVG &#43; refresh workflow)](https://github.com/zifter/clickhouse-migrations/pull/71) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
+- [CHANGELOG: add the v0.13.0 entry](https://github.com/zifter/clickhouse-migrations/pull/70) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.13.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.13.0) (4 weeks ago)
+- [zifter/clickhouse-migrations v0.13.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.13.0) (1 month ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (2 months ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (9 months ago)
 
