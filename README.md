@@ -33,7 +33,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 #### 👷 Check out what I'm currently working on
 
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 month ago)
-- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (1 month ago)
+- [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (2 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (3 months ago)
 
 #### 🔨 My recent Pull Requests
