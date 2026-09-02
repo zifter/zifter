@@ -44,7 +44,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.13.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.13.0) (1 month ago)
-- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (2 months ago)
+- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (3 months ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (10 months ago)
 
 #### 📚 Latest writing
