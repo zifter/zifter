@@ -32,15 +32,15 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - Simple migration tool for clickhouse database (today)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (2 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Make the migrations table name, engine and ZooKeeper path configurable](https://github.com/zifter/clickhouse-migrations/pull/87) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Add a &#34;new&#34; subcommand to scaffold the next migration file](https://github.com/zifter/clickhouse-migrations/pull/86) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Update Star History chart to sealed-token embed](https://github.com/zifter/clickhouse-migrations/pull/72) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 months ago)
+- [Add an opt-in migration lock so concurrent runs cannot interleave](https://github.com/zifter/clickhouse-migrations/pull/92) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add a dump subcommand that prints the schema as portable, diffable SQL](https://github.com/zifter/clickhouse-migrations/pull/91) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Support db_url with the clickhouse-connect driver](https://github.com/zifter/clickhouse-migrations/pull/90) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.13.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.13.0) (2 months ago)
