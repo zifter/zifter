@@ -38,9 +38,9 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🔨 My recent Pull Requests
 
-- [Add an offline validate subcommand and a pre-commit hook](https://github.com/zifter/clickhouse-migrations/pull/96) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (today)
-- [Substitute ${VAR} placeholders in migration files](https://github.com/zifter/clickhouse-migrations/pull/95) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (today)
-- [Add TLS, timeout and ClickHouse settings transport options](https://github.com/zifter/clickhouse-migrations/pull/94) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add a diff subcommand that generates a migration from a schema file](https://github.com/zifter/clickhouse-migrations/pull/97) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Add an offline validate subcommand and a pre-commit hook](https://github.com/zifter/clickhouse-migrations/pull/96) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
+- [Substitute ${VAR} placeholders in migration files](https://github.com/zifter/clickhouse-migrations/pull/95) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.13.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.13.0) (2 months ago)
