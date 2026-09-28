@@ -32,18 +32,18 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (2 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (3 days ago)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (2 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [Test against several ClickHouse versions, document the minimum](https://github.com/zifter/clickhouse-migrations/pull/111) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [CHANGELOG: add the v0.15.0 entry](https://github.com/zifter/clickhouse-migrations/pull/110) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [Test against several ClickHouse versions, document the minimum](https://github.com/zifter/clickhouse-migrations/pull/111) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [CHANGELOG: add the v0.15.0 entry](https://github.com/zifter/clickhouse-migrations/pull/110) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (3 days ago)
+- [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (4 days ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (3 months ago)
 - [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (11 months ago)
 
@@ -55,7 +55,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 - [Впечатление от “Проект “Феникс”. Роман о том, как DevOps меняет бизнес к лучшему”](https://zifter.github.io/offtopic/2021/01/09/fenix-book-review.html) (5 years ago)
 
 🌍 Medium:
-- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (3 days ago)
+- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (4 days ago)
 - [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (5 months ago)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 
