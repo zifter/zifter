@@ -38,9 +38,9 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🔨 My recent Pull Requests
 
+- [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (1 day ago)
+- [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (1 day ago)
 - [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Test against several ClickHouse versions, document the minimum](https://github.com/zifter/clickhouse-migrations/pull/111) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [CHANGELOG: add the v0.15.0 entry](https://github.com/zifter/clickhouse-migrations/pull/110) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (1 week ago)
