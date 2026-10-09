@@ -32,15 +32,15 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (2 weeks ago)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (3 months ago)
 - [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (2 days ago)
-- [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (2 days ago)
-- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
+- [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (3 days ago)
+- [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (3 days ago)
+- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (2 weeks ago)
