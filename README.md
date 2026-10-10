@@ -32,20 +32,20 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
+- [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (4 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (2 weeks ago)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (3 months ago)
-- [zifter/helm-charts](https://github.com/zifter/helm-charts) - Helm charts repository (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (3 days ago)
-- [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (3 days ago)
+- [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (4 days ago)
+- [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (4 days ago)
 - [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
+- [b1ff/atlassian-dc-mcp v0.37.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.37.0) (1 day ago)
 - [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (2 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 months ago)
-- [zifter/u-trust-bot v0.7.0](https://github.com/zifter/u-trust-bot/releases/tag/v0.7.0) (11 months ago)
 
 #### 📚 Latest writing
 
