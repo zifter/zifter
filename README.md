@@ -43,7 +43,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 - [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [b1ff/atlassian-dc-mcp v0.38.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.38.0) (1 day ago)
+- [b1ff/atlassian-dc-mcp v0.38.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.38.0) (2 days ago)
 - [zifter/clickhouse-migrations v0.15.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.15.0) (2 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 months ago)
 
