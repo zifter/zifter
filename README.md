@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (2 days ago)
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (1 week ago)
 - [ClickHouse/clickhouse-docs](https://github.com/ClickHouse/clickhouse-docs) - We have moved: https://github.com/ClickHouse/ClickHouse/tree/master/docs#readme (3 months ago)
 
@@ -40,11 +40,11 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 - [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (1 week ago)
 - [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (1 week ago)
-- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
+- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.16.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.0) (1 day ago)
-- [b1ff/atlassian-dc-mcp v0.38.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.38.0) (3 days ago)
+- [zifter/clickhouse-migrations v0.16.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.0) (2 days ago)
+- [b1ff/atlassian-dc-mcp v0.38.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.38.0) (4 days ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 months ago)
 
 #### 📚 Latest writing
@@ -56,7 +56,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 🌍 Medium:
 - [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (3 weeks ago)
-- [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (5 months ago)
+- [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (6 months ago)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 
 #### 💬 Feedback
