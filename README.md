@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (4 days ago)
+- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (5 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (2 weeks ago)
 
@@ -55,7 +55,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (5 years ago)
 
 🌍 Medium:
-- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (4 weeks ago)
+- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (1 month ago)
 - [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (6 months ago)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 
