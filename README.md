@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (5 days ago)
+- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (6 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (2 weeks ago)
 
@@ -40,7 +40,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 - [fix(confluence): preserve raw history and space page storage](https://github.com/sooperset/mcp-atlassian/pull/1725) on [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) (2 weeks ago)
 - [fix(bitbucket): keep reviewers when updatePullRequest omits them](https://github.com/b1ff/atlassian-dc-mcp/pull/93) on [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) (2 weeks ago)
-- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 weeks ago)
+- [Drop Python 3.9 support](https://github.com/zifter/clickhouse-migrations/pull/114) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.16.0](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.0) (1 week ago)
