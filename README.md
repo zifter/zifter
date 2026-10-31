@@ -38,13 +38,13 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🔨 My recent Pull Requests
 
-- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [CHANGELOG: add the v0.16.1 entry](https://github.com/zifter/clickhouse-migrations/pull/120) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 day ago)
-- [Fix --lock with a custom migrations table: un-nest the Keeper paths](https://github.com/zifter/clickhouse-migrations/pull/117) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [CHANGELOG: add the v0.16.1 entry](https://github.com/zifter/clickhouse-migrations/pull/120) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
+- [Fix --lock with a custom migrations table: un-nest the Keeper paths](https://github.com/zifter/clickhouse-migrations/pull/117) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [zifter/clickhouse-migrations v0.16.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.1) (1 day ago)
-- [b1ff/atlassian-dc-mcp v0.38.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.38.0) (2 weeks ago)
+- [b1ff/atlassian-dc-mcp v0.39.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.39.0) (1 day ago)
+- [zifter/clickhouse-migrations v0.16.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.1) (2 days ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 months ago)
 
 #### 📚 Latest writing
