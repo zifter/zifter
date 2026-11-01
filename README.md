@@ -32,20 +32,20 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 day ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (2 days ago)
 - [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (1 week ago)
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [CHANGELOG: add the v0.16.1 entry](https://github.com/zifter/clickhouse-migrations/pull/120) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 days ago)
-- [Fix --lock with a custom migrations table: un-nest the Keeper paths](https://github.com/zifter/clickhouse-migrations/pull/117) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [CHANGELOG: add the v0.16.1 entry](https://github.com/zifter/clickhouse-migrations/pull/120) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (3 days ago)
+- [Fix --lock with a custom migrations table: un-nest the Keeper paths](https://github.com/zifter/clickhouse-migrations/pull/117) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [b1ff/atlassian-dc-mcp v0.39.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.39.0) (1 day ago)
-- [zifter/clickhouse-migrations v0.16.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.1) (2 days ago)
-- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (4 months ago)
+- [b1ff/atlassian-dc-mcp v0.40.0](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.40.0) (1 day ago)
+- [zifter/clickhouse-migrations v0.16.1](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.1) (3 days ago)
+- [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (5 months ago)
 
 #### 📚 Latest writing
 
