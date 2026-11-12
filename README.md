@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (5 days ago)
+- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (6 days ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
 - [b1ff/atlassian-dc-mcp](https://github.com/b1ff/atlassian-dc-mcp) - MCP servers for the Atlassian products (Bitbucket, Confluence, JIRA) of the Data Center version (1 month ago)
 
@@ -40,7 +40,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 - [CHANGELOG: add the v0.16.2 entry](https://github.com/zifter/clickhouse-migrations/pull/124) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 - [Keep the schema_versions row on re-insert after down (#122)](https://github.com/zifter/clickhouse-migrations/pull/123) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
+- [Document the release process in CONTRIBUTING](https://github.com/zifter/clickhouse-migrations/pull/121) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.16.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.2) (1 week ago)
