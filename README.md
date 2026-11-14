@@ -51,7 +51,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 🇷🇺 Blog:
 - [Масштабирование деплойментов с помощью prometheus и keda](https://zifter.github.io/devops/2022/02/20/k8s-keda-autoscaling-example.html) (4 years ago)
-- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (4 years ago)
+- [Заметки об никнеймах игроков](https://zifter.github.io/offtopic/gamedev/2021/12/10/nicknames-in-games.html) (5 years ago)
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (5 years ago)
 
 🌍 Medium:
