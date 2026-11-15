@@ -44,7 +44,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🚀 Latest releases I've contributed to
 - [zifter/clickhouse-migrations v0.16.2](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.2) (1 week ago)
-- [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (1 week ago)
+- [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (2 weeks ago)
 - [zifter/helm-charts rq-exporter-0.2.4](https://github.com/zifter/helm-charts/releases/tag/rq-exporter-0.2.4) (5 months ago)
 
 #### 📚 Latest writing
@@ -56,7 +56,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 🌍 Medium:
 - [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (1 month ago)
-- [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (6 months ago)
+- [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (7 months ago)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 
 #### 💬 Feedback
