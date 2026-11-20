@@ -32,19 +32,19 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (3 days ago)
-- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (4 days ago)
-- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (1 week ago)
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (4 days ago)
+- [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (5 days ago)
+- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [GitHub Action: default to Python 3.14](https://github.com/zifter/clickhouse-migrations/pull/129) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 days ago)
-- [CHANGELOG: add the v0.16.3 entry](https://github.com/zifter/clickhouse-migrations/pull/128) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 days ago)
-- [Test on Python 3.15; keep the Docker image on 3.14](https://github.com/zifter/clickhouse-migrations/pull/127) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (4 days ago)
+- [GitHub Action: default to Python 3.14](https://github.com/zifter/clickhouse-migrations/pull/129) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 days ago)
+- [CHANGELOG: add the v0.16.3 entry](https://github.com/zifter/clickhouse-migrations/pull/128) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 days ago)
+- [Test on Python 3.15; keep the Docker image on 3.14](https://github.com/zifter/clickhouse-migrations/pull/127) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (5 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [sooperset/mcp-atlassian v0.24.6](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.6) (3 days ago)
-- [zifter/clickhouse-migrations v0.16.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.3) (4 days ago)
+- [sooperset/mcp-atlassian v0.24.7](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.7) (today)
+- [zifter/clickhouse-migrations v0.16.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.3) (5 days ago)
 - [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (2 weeks ago)
 
 #### 📚 Latest writing
