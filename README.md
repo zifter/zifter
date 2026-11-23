@@ -32,7 +32,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 👷 Check out what I'm currently working on
 
-- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (6 days ago)
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (1 week ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
 - [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (2 weeks ago)
 
@@ -43,7 +43,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 - [Test on Python 3.15; keep the Docker image on 3.14](https://github.com/zifter/clickhouse-migrations/pull/127) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
 
 #### 🚀 Latest releases I've contributed to
-- [sooperset/mcp-atlassian v0.24.7](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.7) (2 days ago)
+- [sooperset/mcp-atlassian v0.24.8](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.8) (today)
 - [zifter/clickhouse-migrations v0.16.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.3) (1 week ago)
 - [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (3 weeks ago)
 
@@ -55,7 +55,7 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 - [Автоматизация проверки срока истечения регистрации домена в kubernetes с использованием prometheus](https://zifter.github.io/devops/2021/09/12/domain-expiration-prometheus-exporter.html) (5 years ago)
 
 🌍 Medium:
-- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (1 month ago)
+- [ClickHouse Migrations in Production, Part 2: What’s New in 0.14](https://medium.com/@zifter/clickhouse-migrations-in-production-part-2-locks-schema-diff-and-the-questions-users-actually-203f55f10bae?source=rss-766601af1f16------2) (2 months ago)
 - [Managing ClickHouse Migrations in Production: Cluster Support and Multi-Statement Files](https://medium.com/@zifter/managing-clickhouse-migrations-in-production-cluster-support-and-multi-statement-files-07d46c1de275?source=rss-766601af1f16------2) (7 months ago)
 - [Movie blooper in “American Gods”](https://medium.com/@zifter/movie-blooper-in-american-gods-aee3b286b899?source=rss-766601af1f16------2) (3 years ago)
 
