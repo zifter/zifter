@@ -38,12 +38,12 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 #### 🔨 My recent Pull Requests
 
-- [GitHub Action: default to Python 3.14](https://github.com/zifter/clickhouse-migrations/pull/129) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [CHANGELOG: add the v0.16.3 entry](https://github.com/zifter/clickhouse-migrations/pull/128) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
-- [Test on Python 3.15; keep the Docker image on 3.14](https://github.com/zifter/clickhouse-migrations/pull/127) on [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) (1 week ago)
+- [fix(ioreport): bound the sampling window by wall-clock time](https://github.com/metaspartan/mactop/pull/117) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (1 day ago)
+- [perf(metrics): cache temperature-sensor child gauges](https://github.com/metaspartan/mactop/pull/116) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (1 day ago)
+- [perf(processes): reuse the KERN_PROC_ALL buffer in getProcessList](https://github.com/metaspartan/mactop/pull/115) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
-- [sooperset/mcp-atlassian v0.24.8](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.8) (today)
+- [sooperset/mcp-atlassian v0.24.8](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.8) (1 day ago)
 - [zifter/clickhouse-migrations v0.16.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.3) (1 week ago)
 - [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (3 weeks ago)
 
