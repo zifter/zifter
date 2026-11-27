@@ -34,16 +34,16 @@ I'm Oleg! I'm a Software Developer based in Paphos, Cyprus 🇨🇾, originally 
 
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira) (1 week ago)
 - [zifter/clickhouse-migrations](https://github.com/zifter/clickhouse-migrations) - SQL-file schema migrations for ClickHouse: cluster-aware, both drivers, schema dump &amp; diff, opt-in Keeper lock, offline validate &#43; pre-commit hook. CLI, Python API, GitHub Action, Docker. (1 week ago)
-- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (2 weeks ago)
+- [zifter/dev-flow-sim](https://github.com/zifter/dev-flow-sim) - Симулятор потока разработки: где узкое место, если заменить людей ИИ-агентами (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ioreport): bound the sampling window by wall-clock time](https://github.com/metaspartan/mactop/pull/117) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (3 days ago)
-- [perf(metrics): cache temperature-sensor child gauges](https://github.com/metaspartan/mactop/pull/116) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (3 days ago)
-- [perf(processes): reuse the KERN_PROC_ALL buffer in getProcessList](https://github.com/metaspartan/mactop/pull/115) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (3 days ago)
+- [fix(ioreport): bound the sampling window by wall-clock time](https://github.com/metaspartan/mactop/pull/117) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (4 days ago)
+- [perf(metrics): cache temperature-sensor child gauges](https://github.com/metaspartan/mactop/pull/116) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (4 days ago)
+- [perf(processes): reuse the KERN_PROC_ALL buffer in getProcessList](https://github.com/metaspartan/mactop/pull/115) on [metaspartan/mactop](https://github.com/metaspartan/mactop) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
-- [sooperset/mcp-atlassian v0.24.8](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.8) (3 days ago)
+- [sooperset/mcp-atlassian v0.24.8](https://github.com/sooperset/mcp-atlassian/releases/tag/v0.24.8) (4 days ago)
 - [zifter/clickhouse-migrations v0.16.3](https://github.com/zifter/clickhouse-migrations/releases/tag/v0.16.3) (1 week ago)
 - [b1ff/atlassian-dc-mcp v0.43.2](https://github.com/b1ff/atlassian-dc-mcp/releases/tag/v0.43.2) (3 weeks ago)
 
